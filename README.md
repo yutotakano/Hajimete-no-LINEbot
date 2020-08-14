@@ -17,7 +17,6 @@ Some potential uses of this codebase may be to:
 - keep track of self-reported body temperatures of every employee
 - keep track of self-reported records of athletic sports
 - keep track of votes, since only the spreadsheet owner can see the values
-- keep track of 
 
 The database being operated on Google Spreadsheet has additional benefits compared to a usual SQL or JSON database.
 The platform is naturally designed for number operations, and thus with the use of another sheet (for non-destructive operations) one can create graphs, pivot tables, and complex data visualisations through expressions.
@@ -31,4 +30,4 @@ The platform is naturally designed for number operations, and thus with the use 
 ## License
 
 This repository is licensed under GNU General Public License v3.0. Yuto Takano. 2020.
-
+Check LICENSE.md for full details.
